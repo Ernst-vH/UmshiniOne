@@ -1199,24 +1199,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ernst\\.nuget\\packages\\": {},
+    "C:\\Users\\Jester\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Jester\\Source\\Repos\\Ernst-vH\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\Ernst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Jester\\Source\\Repos\\Ernst-vH\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\Jester\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jester\\Source\\Repos\\Ernst-vH\\UmshiniOne\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ernst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jester\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

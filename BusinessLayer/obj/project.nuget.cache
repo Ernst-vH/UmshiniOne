@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vASAvGo56B+4YmJOwd8uSrdDvu9x8iWh9BYVCl4WHmrdjVRIikyjwJjy1iy3vBNUZvhdPktOX2uWQ7xNzbrasA==",
+  "dgSpecHash": "/Kyg+/7oAJF1SYTVRr0v8eT+hy2bqlITAdHhQh0JszTPjLFBhTRXISz/v4BhTHfOw2IwhOTLa/LPWwP9fNKRiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Jester\\Source\\Repos\\Ernst-vH\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

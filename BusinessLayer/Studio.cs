@@ -12,32 +12,22 @@ using Android.Widget;
 
 namespace BusinessLayer
 {
-    public class Studio
-    {
-        private string studioAddress;
-        private int studioID;
-        private string studioName;
-
-        public string StudioAddress { get => studioAddress; set => studioAddress = value; }
-        public int StudioID { get => studioID; set => studioID = value; }
-        public string StudioName { get => studioName; set => studioName = value; }
-
-        public Studio()
+    public class Studio : csStudio
+    {        
+        public Studio(int studioID, string studioName, string studioAddress)
+            : base(studioID,studioName,studioAddress)
+        {
+            
+        }
+        public Studio() : base()
         {
 
         }
 
-        public Studio(string studioAddress, int studioID, string studioName)
+        public List<Studio> GetData()
         {
-            this.StudioAddress = studioAddress;
-            this.StudioID = studioID;
-            this.StudioName = studioName;
-        }
-
-        public List<Studio> GetStudios()
-        {
-            List<Studio> studios = new List<Studio>();
-            return studios;
+            List<Studio> returnList = new List<Studio>();
+            return returnList;
         }
     }
 }
