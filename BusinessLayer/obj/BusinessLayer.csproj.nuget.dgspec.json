@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Ernst\\source\\repos\\UmshiniOne1\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Ernst\\source\\repos\\UmshiniOne1\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne1\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne1\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Ernst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Ernst\\source\\repos\\UmshiniOne1\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
